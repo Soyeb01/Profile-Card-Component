@@ -24,7 +24,7 @@ This challenge is made by using HTML and CSS. And it makes me use Flexbox by  wh
 ### Links
 
 - Solution URL: https://github.com/Soyeb01/Profile-Card-Component.git
-- Live Site URL: https://3-column-card-by-soyeb01.netlify.app/
+- Live Site URL: https://profile-card-component-soyeb01.netlify.app/
 
 ## My process
 
